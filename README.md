@@ -10,6 +10,6 @@ Me making projects and visualisations as I explore the intersection of spatial-d
 * SF Streets and Muni Stops
   * _I used SFMTA GTFS data combined with shapefiles of San Francisco's streets to visualise the coverage area of different buffer zones around each Muni stop. All files needed to run the ipynb are included in the folder._
 * Spatial Overlays
-  * Followed a quick example on spatial overlays, making my own notes.
+  * _Followed a quick example on spatial overlays, making my own notes._
 * Spatial Joins
-  * Stepped through a notebook on spatial joins, making notes along the way.
+  * _Stepped through a notebook on spatial joins, making notes along the way._
