@@ -9,3 +9,4 @@ Me making projects and visualisations as I explore the intersection of spatial-d
 4. **Spatial Overlays** - Followed a quick example on spatial overlays, making my own notes.
 5. **Spatial Joins** - Stepped through a notebook on spatial joins, making notes along the way.
 6. **SF Muni - Air vs Walking Distance** - A branch off _SF Streets and Muni Stops_ where I highlight the different between analysing the walking distance using air distance as opposed to walking distance.
+7. **Spatial Regression - AirBnB Data** - Going from visualisations back to statistics, I follow a spatial regression notebook using the dataset for San Francisco, porting it for compatability with pysal 2.0.0, and extend the analysis.
